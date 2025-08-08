@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+export_to_econgraphs.py
+docs/_site/
+docs/.jekyll-cache/
+src/lib/js-yaml/
+vendor/
+src/.DS_Store
+*/.DS_Store

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": ["es2018","dom"],
+        "outFile": "build/kg.js"
+    },
+    "files": [
+        "src/ts/kg.ts"
+    ]
+}
